@@ -8,7 +8,7 @@
 <meta name="description" content="Damata Bebidas" />
 <meta name="keywords" content="Damata Bebidas, Gente, DPO, SPO"/>
 <meta name="robots" content="index, fallow"/>
-<meta name="author" content="Welington Marquezini"/>
+<meta name="author" content="Marcus Gabriel"/>
 <meta http-equiv="Refresh" content="300" />
 <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet"> <!--Fontes do Google Fontes -->
 <link rel="stylesheet" 
